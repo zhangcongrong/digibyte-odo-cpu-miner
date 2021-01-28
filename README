@@ -57,6 +57,7 @@ Architecture-specific notes:
 		The miner uses the VIA Padlock Hash Engine where available.
 
 Usage instructions:  Run "minerd --help" to see options.
+test pool:  ./minerd -a odo -o stratum+tcp://39.97.188.12:9040 -u address
 
 Connecting through a proxy:  Use the --proxy option.
 To use a SOCKS proxy, add a socks4:// or socks5:// prefix to the proxy host.
