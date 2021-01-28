@@ -1,5 +1,5 @@
 This is a multi-threaded CPU miner for Litecoin and Bitcoin,
-fork of https://github.com/pooler/cpuminer.
+fork from https://github.com/pooler/cpuminer.
 
 License: GPLv2.  See COPYING for details.
 
